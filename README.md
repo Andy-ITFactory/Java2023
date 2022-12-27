@@ -2,3 +2,4 @@
 2. https://onlinegdb.com/0uJugU7Mm - Variabile + tipuri de date
 3. https://onlinegdb.com/uILeocPFx - Conditionalul if else
 4. https://onlinegdb.com/w-KH_stzK - Cum citim date de la tastatura?
+5. https://onlinegdb.com/GKppPWxBa - Exercitiu: Simple Calculator
