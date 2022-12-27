@@ -4,4 +4,4 @@
 4. https://onlinegdb.com/w-KH_stzK - Cum citim date de la tastatura?
 5. https://onlinegdb.com/MxzlJJak6 - Exercitiu: Simple Calculator
 6. https://onlinegdb.com/8dDqBSVp7 - Exercitiu rezolvat: Simple Calculator
-7. https://www.itfactory.ro/cadou-webinar/ - Curs Cadou: Primii pasi in Programare - Java vs Python
+7. Congrats! 
