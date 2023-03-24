@@ -3,5 +3,5 @@
 3. https://onlinegdb.com/uILeocPFx - Conditionalul if else
 4. https://onlinegdb.com/w-KH_stzK - Cum citim date de la tastatura?
 5. https://onlinegdb.com/19VGEvdRUY - Exercitiu: Simple Calculator
-6. https://onlinegdb.com/8-ilbPnpF - Exercitiu rezolvat: Simple Calculator
+6. hhttps://onlinegdb.com/muDtesJAt - Exercitiu rezolvat: Simple Calculator
 7. Congrats! 
